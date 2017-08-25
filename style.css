@@ -3,8 +3,8 @@ body {
 	background-image: url("img/body-bg.png");
 	background-repeat: repeat-x;
 	background-attachment: fixed;
-	font-size: 13рх;
-	line-height: 18рх;
+	font-size: 13px;
+	line-height: 18px;
 	color: #333;
 	font-family: Arial;
 	}
@@ -30,15 +30,15 @@ body {
 	padding: 20px 30px;
 	}
 h1 {
-	font-size: 26рх;
-	line-height: 36рх;
+	font-size: 26px;
+	line-height: 36px;
 	color: #2b8c57;
 	font-weight: normal;
-	margin-bottom: 10рх;
+	margin-bottom: 10px;;
 	}
 h2 {
-	font-size: 18рх;
-	line-height: 28рх;
+	font-size: 18px;
+	line-height: 28px;
 	color: #2b8c57;
 	font-style: italic;
 	font-weight: normal;
@@ -48,7 +48,7 @@ div.block-1 {
 	background-color: #2b8c57;
 	color: #fff;
 	font-style: italic;
-	font-size: 12рх;
+	font-size: 12px;
 	padding: 20px 30px;
 	background-image: url("img/block-1-bg.png");
 	background-repeat: repeat-x;
@@ -57,7 +57,7 @@ div.block-2 {
 	background-color: #356149;
 	color: #fff;
 	font-style: italic;
-	font-size: 12рх;
+	font-size: 12px;
 	padding: 20px 30px;
 	background-image: url("img/picture-1.png");
 	background-position: right bottom;
